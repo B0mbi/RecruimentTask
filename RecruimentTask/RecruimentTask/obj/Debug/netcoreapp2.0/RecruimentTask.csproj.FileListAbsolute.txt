@@ -1,0 +1,11 @@
+C:\Users\It's Me\Desktop\c#\RecruimentTask\RecruimentTask\RecruimentTask\bin\Debug\netcoreapp2.0\RecruimentTask.deps.json
+C:\Users\It's Me\Desktop\c#\RecruimentTask\RecruimentTask\RecruimentTask\bin\Debug\netcoreapp2.0\RecruimentTask.runtimeconfig.json
+C:\Users\It's Me\Desktop\c#\RecruimentTask\RecruimentTask\RecruimentTask\bin\Debug\netcoreapp2.0\RecruimentTask.runtimeconfig.dev.json
+C:\Users\It's Me\Desktop\c#\RecruimentTask\RecruimentTask\RecruimentTask\bin\Debug\netcoreapp2.0\RecruimentTask.dll
+C:\Users\It's Me\Desktop\c#\RecruimentTask\RecruimentTask\RecruimentTask\bin\Debug\netcoreapp2.0\RecruimentTask.pdb
+C:\Users\It's Me\Desktop\c#\RecruimentTask\RecruimentTask\RecruimentTask\obj\Debug\netcoreapp2.0\RecruimentTask.csprojAssemblyReference.cache
+C:\Users\It's Me\Desktop\c#\RecruimentTask\RecruimentTask\RecruimentTask\obj\Debug\netcoreapp2.0\RecruimentTask.csproj.CoreCompileInputs.cache
+C:\Users\It's Me\Desktop\c#\RecruimentTask\RecruimentTask\RecruimentTask\obj\Debug\netcoreapp2.0\RecruimentTask.AssemblyInfoInputs.cache
+C:\Users\It's Me\Desktop\c#\RecruimentTask\RecruimentTask\RecruimentTask\obj\Debug\netcoreapp2.0\RecruimentTask.AssemblyInfo.cs
+C:\Users\It's Me\Desktop\c#\RecruimentTask\RecruimentTask\RecruimentTask\obj\Debug\netcoreapp2.0\RecruimentTask.dll
+C:\Users\It's Me\Desktop\c#\RecruimentTask\RecruimentTask\RecruimentTask\obj\Debug\netcoreapp2.0\RecruimentTask.pdb
